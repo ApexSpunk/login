@@ -38,7 +38,7 @@ export default function Home() {
         `}
         </style>
       </Head>
-      <div style={{ background: 'url(http://localhost:3000/images/Rectangle%201.png) no-repeat', backgroundSize: 'contain', height: '100vh' }}>
+      <div style={{ background: 'url(https://viamagus1.netlify.app/images/Rectangle%201.png) no-repeat', backgroundSize: 'contain', height: '100vh' }}>
         <div className=" max-w-[577px] mx-auto pt-20 ">
           <div className="bg-white rounded-[6px] ">
             <div className="bg-white  rounded-t-[6px] h-[58px] flex items-center shadow-[0_3px_7px_rgba(0,0,0,0.2)]">
